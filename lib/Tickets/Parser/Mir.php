@@ -4,7 +4,7 @@ namespace Tickets\Parser;
 
 
 use Tickets\Base\Parser;
-use Tickets\Elements\Passenger;
+use Tickets\Elements\Person;
 
 class Mir extends Parser {
 
@@ -65,7 +65,7 @@ class Mir extends Parser {
 
     private function parseA02Section($text) {
 
-        $passenger = new Passenger();
+        $passenger = new Person();
 
         $fullNameString = substr($text, 3, 33);
         $nameParts = explode("/",$fullNameString);
@@ -75,10 +75,10 @@ class Mir extends Parser {
         $nameParts[1] = trim($nameParts[1]);
         if(preg_match("/MR$/",$nameParts[1])) {
             $passenger->setFirstName(substr($nameParts[1], 0, (strlen($nameParts[1]) - 2)));
-            $passenger->setSex(Passenger::SEX_MALE);
+            $passenger->setSex(Person::SEX_MALE);
         } else {
             $passenger->setFirstName(substr($nameParts[1], 0, (strlen($nameParts[1]) - 3)));
-            $passenger->setSex(Passenger::SEX_FEMALE);
+            $passenger->setSex(Person::SEX_FEMALE);
         }
         $passenger->iataCode(trim(substr($text, 69, 6)));
 
