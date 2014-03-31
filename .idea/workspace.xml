@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8fed3f9a-ddea-450c-9a30-2d56ee80cd8a" name="Default" comment="" />
+    <ignored path="Air.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Air">
+      <favorite_root url="file://$PROJECT_DIR$/lib/Tickets" module="Air" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/lib/air/Segment.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="bootstrap.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="165" selection-end="185" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mir.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/Mir.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="25" selection-start="118" selection-end="118" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="4080">
+              <folding>
+                <element signature="e#35#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Segment.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/Tickets/Air/Segment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="15" selection-start="359" selection-end="359" vertical-scroll-proportion="0.4775281" vertical-offset="0" max-vertical-offset="675">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/air/Segment.php" />
+        <option value="$PROJECT_DIR$/lib/Air/Segment.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Location/Aircraft.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Air/Aircraft.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Aircraft.php" />
+        <option value="$PROJECT_DIR$/composer.js" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Craft.php" />
+        <option value="$PROJECT_DIR$/test/Tickets/Elements/CraftTest.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Stop.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Air/Segment.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Base/Time.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Airline.php" />
+        <option value="$PROJECT_DIR$/test/Tickets/Elements/AirlineTest.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Appearance.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Exceptions/RuntimeException.php" />
+        <option value="$PROJECT_DIR$/test/Tickets/Base/LocationTest.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Base/Location.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Location.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Parser/old/Controller.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Parser/Parser.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Interfaces/Parser.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Parser.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Base/Parser.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Interfaces/IParser.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Passanger.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Elements/Passenger.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Base/Element.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Parser/old/Interface/MIR.php" />
+        <option value="$PROJECT_DIR$/test/Tickets/Elements/LocationTest.php" />
+        <option value="$PROJECT_DIR$/bootstrap.php" />
+        <option value="$PROJECT_DIR$/lib/Tickets/Parser/Mir.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="air" name="air" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php54" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Air" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Air" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Air" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistory" value="'hi" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/Tickets" />
+      <recent name="$PROJECT_DIR$/lib/Tickets/Elements" />
+      <recent name="$PROJECT_DIR$/lib/Tickets/Air" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.air">
+    <configuration default="false" name="AirlineTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="AirlineTest" file="$PROJECT_DIR$/test/Tickets/Elements/AirlineTest.php" scope="Class" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CraftTest.testIataCode" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="CraftTest" file="$PROJECT_DIR$/test/Tickets/Elements/CraftTest.php" method="testIataCode" scope="Method" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="false" name="air" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$/test" options="--bootstrap /Users/ikoolik/Env/private/Air/bootstrap.php" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.air" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.AirlineTest" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.CraftTest.testIataCode" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.CraftTest.testIataCode" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.AirlineTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19765624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22177956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/Mir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="5" selection-start="308" selection-end="308" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="4095">
+          <folding>
+            <element signature="e#35#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Passenger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Base/Element.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/old/Interface/MIR.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="331" column="0" selection-start="9364" selection-end="9364" vertical-scroll-proportion="0.0" vertical-offset="4965" max-vertical-offset="5100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/Mir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="37" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.0" vertical-offset="789" max-vertical-offset="1770">
+          <folding>
+            <element signature="e#35#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Passenger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Base/Element.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="122" selection-end="122" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/old/Interface/MIR.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="214" column="5" selection-start="5913" selection-end="7137" vertical-scroll-proportion="0.0" vertical-offset="2580" max-vertical-offset="8460" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="5" selection-start="1164" selection-end="1164" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Tickets/Base/LocationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="27" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Craft.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="0.26490065" vertical-offset="0" max-vertical-offset="453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Base/Location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="38" selection-start="377" selection-end="377" vertical-scroll-proportion="0.24418604" vertical-offset="165" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Appearance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Exceptions/RuntimeException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="162" selection-end="162" vertical-scroll-proportion="0.1986755" vertical-offset="0" max-vertical-offset="453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="38" selection-start="605" selection-end="605" vertical-scroll-proportion="0.7284768" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Airline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="95" selection-end="95" vertical-scroll-proportion="0.26490065" vertical-offset="0" max-vertical-offset="453" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/old/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="0.21398003" vertical-offset="0" max-vertical-offset="701" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="33" selection-start="626" selection-end="626" vertical-scroll-proportion="0.40085593" vertical-offset="19" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Base/Parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="10" selection-start="170" selection-end="170" vertical-scroll-proportion="0.17118402" vertical-offset="0" max-vertical-offset="701">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Base/Element.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0764526" vertical-offset="0" max-vertical-offset="981" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Elements/Passenger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="89" selection-end="89" vertical-scroll-proportion="0.036697246" vertical-offset="69" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Tickets/Elements/LocationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="209" selection-end="209" vertical-scroll-proportion="0.12232416" vertical-offset="0" max-vertical-offset="981" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Tickets/Base/LocationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="30" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0764526" vertical-offset="0" max-vertical-offset="981" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/old/Interface/MIR.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="331" column="0" selection-start="9364" selection-end="9364" vertical-scroll-proportion="0.86238533" vertical-offset="4119" max-vertical-offset="5100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="165" selection-end="185" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Parser/Mir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="25" selection-start="118" selection-end="118" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="4080">
+          <folding>
+            <element signature="e#35#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Tickets/Air/Segment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="15" selection-start="359" selection-end="359" vertical-scroll-proportion="0.4775281" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
